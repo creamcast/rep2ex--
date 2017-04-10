@@ -1,8 +1,9 @@
 # rep2ex “赤レス抽出” 人気レスへのリンク一覧表示
-rep2ex all-in-one用。スレッドヘッダに人気レス一覧を表示するために作ったShowThread.php改造版
+rep2ex all-in-one用のShowThread.php改造版です。スレッドヘッダに人気レス一覧を表示します。
 
-拡張の作り方がよく分からなかったのでそのまま直編しました。
+拡張の作り方がよく分からなかったのでそのまま直接編集しました。
 
-# インスコ方法
+# 使い方
 
-ShowThread.php を p2-php/lib/ にD&Dして上書き保全してください。
+①rep2基本設定にてbacklink_listを横表示（あるいは両方）にしてください。
+②ShowThread.php を p2-php/lib/ にD&Dして上書き保全してください。
