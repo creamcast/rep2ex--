@@ -5,6 +5,6 @@ rep2ex all-in-one用のShowThread.php改造版です。スレッドヘッダに�
 
 # 使い方
 
-①rep2基本設定にてbacklink_listを横表示（あるいは両方）にしてください。
+＊rep2基本設定にてbacklink_listを横表示（あるいは両方）にしてください。
 
-②ShowThread.php を p2-php/lib/ にD&Dして上書き保全してください。
+ShowThread.php を p2-php/lib/ にD&Dして上書き保全する。
