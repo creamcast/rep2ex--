@@ -5,6 +5,8 @@ rep2ex all-in-one用のShowThread.php改造版です。スレッドヘッダに�
 
 # 使い方
 
-＊rep2基本設定にてbacklink_listを横表示（あるいは両方）にしてください。
+＊使うためにはrep2基本設定にてbacklink_listを横表示（あるいは両方）にしてください。
 
-ShowThread.php を p2-php/lib/ にD&Dして上書き保全する。
+①ShowThread.php を p2-php/lib/ にD&Dして上書き保全します。
+
+②３以上のレスがついたレスがスレッドヘッダにリストアップされるはずです。
